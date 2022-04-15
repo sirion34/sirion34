@@ -1,4 +1,4 @@
-### Hello, I'm Gleb Shuldyakov 👋 👋
+# Hello, I'm Gleb Shuldyakov!👋 
 
 <!--
 **sirion34/sirion34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
