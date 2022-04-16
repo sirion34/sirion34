@@ -9,6 +9,11 @@
 - Applied Mathematics and Physics bachelor from [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
 
+### 💎 BIO
+
+- I am a member of the [Open Data Science](https://ods.ai/) 
+
+
 <!--
 **sirion34/sirion34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
