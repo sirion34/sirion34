@@ -2,6 +2,8 @@
 
 ## 🔎 About me
 
+A student from Moscow who is fascinated by everything that's DS and blockchain related ❤️. 
+
 ### 🎓 Education
 
 - I'm currently pursuing a master's degree in applied mathematics and physics from [Moscow University of Physics and Technology](https://mipt.ru/english/),
@@ -12,6 +14,7 @@
 ### 💎 BIO
 
 - I am a member of the [Open Data Science](https://ods.ai/) 
+- Mastering: `.py`
 
 
 <!--
