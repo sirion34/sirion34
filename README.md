@@ -15,7 +15,7 @@ A student from Moscow who is fascinated by everything that's DS and blockchain r
 
 - I am a member of the [Open Data Science](https://ods.ai/) 
 - Mastering: `.py`
-
+- I love sport! 💪
 
 
 <!--
