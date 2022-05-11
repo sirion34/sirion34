@@ -2,7 +2,7 @@
 
 ## 🔎 About me
 
-A student from Moscow who is fascinated by everything that's DS and blockchain related. 
+A student from Moscow. 
 
 ### 🎓 Education
 
