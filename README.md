@@ -7,7 +7,7 @@ A student from Moscow.
 ### 🎓 Education
 
 - I'm currently pursuing a master's degree in applied mathematics and physics from [Moscow University of Physics and Technology](https://mipt.ru/english/),
-- I study phase transitions in polymers studying phase transitions in polymers at INEOS RAS,
+- I study phase transitions in polymers at INEOS RAS,
 - [Deep Learning School](https://en.dlschool.org/) attender,
 - Applied Mathematics and Physics bachelor from [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
