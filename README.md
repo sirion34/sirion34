@@ -16,7 +16,7 @@ A student from Moscow.
 
 - I am a member of the [Open Data Science](https://ods.ai/) 
 - Mastering: `.py`
-
+- I solved 100+ problems on [leetcode](https://leetcode.com/sirion34/) 
 
 
 <!--
