@@ -16,6 +16,8 @@ A student from Moscow.
 
 - I am a member of the [Open Data Science](https://ods.ai/) 
 - Mastering: `.py`
+- I’m currently learning `Julia`
+- Interested in HFT and investments
 - [My leetcode](https://leetcode.com/sirion34/) 
 
 
