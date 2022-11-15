@@ -1,10 +1,10 @@
-# Hello, I'm Gleb Shuldyakov!👋 
+# Hello, I'm Gleb Shuldyakov!
 
-## 🔎 About me
+## About me
 
 A student from Moscow. 
 
-### 🎓 Education
+### Education
 
 - I'm currently pursuing a master's degree in applied mathematics and physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/),
 - I study phase transitions in polymers at INEOS RAS,
@@ -12,7 +12,7 @@ A student from Moscow.
 - Applied Mathematics and Physics bachelor from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 
 
-### 💎 BIO
+### BIO
 
 - I am a member of the [Open Data Science](https://ods.ai/) 
 - Mastering: `.py`
