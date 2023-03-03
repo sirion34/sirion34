@@ -7,7 +7,7 @@ A student from Moscow.
 ### Education
 
 - I'm currently pursuing a master's degree in applied mathematics and physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/),
-- Senior Assistant at the laboratory of computer modeling of macromolecules at INEOS RAS,
+- Senior Assistant at the laboratory of computer modeling of macromolecules at INEOS RAS (Theory),
 - [Deep Learning School](https://en.dlschool.org/) attender,
 - Applied Mathematics and Physics bachelor from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 
