@@ -7,17 +7,15 @@ A student from Moscow.
 ### Education
 
 - I'm currently pursuing a master's degree in applied mathematics and physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/),
-- I study phase transitions in polymers at INEOS RAS,
+- Senior Assistant at the laboratory of computer modeling of macromolecules at INEOS RAS,
 - [Deep Learning School](https://en.dlschool.org/) attender,
 - Applied Mathematics and Physics bachelor from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 
 
 ### BIO
 
-- I am a member of the [Open Data Science](https://ods.ai/) 
-- Mastering: `.py`
-- I’m currently learning `Julia`
-- Interested in HFT, investments, blockchain and cryptocurrency
+- Mastering: `.py`, `jl`, `.rs`
+- Interested in HFT, investments, trading, finance, blockchain and cryptocurrency
 - [My leetcode](https://leetcode.com/sirion34/) 
 
 
