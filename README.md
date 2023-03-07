@@ -14,7 +14,7 @@ A student from Moscow.
 
 ### BIO
 
-- Mastering: `.py`, `jl`, `.rs`
+- Mastering: `.py`, `.jl`, `.rs`
 - Interested in HFT, investments, trading, finance, blockchain and cryptocurrency
 - [My leetcode](https://leetcode.com/sirion34/) 
 
