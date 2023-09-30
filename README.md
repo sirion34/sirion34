@@ -8,7 +8,7 @@ A student from Moscow.
 
 - [Deep Learning School](https://en.dlschool.org/) attender,
 - Applied Mathematics and Physics bachelor from [Moscow Institute of Physics and Technology](https://mipt.ru/english/),
-- Applied Mathematics and Physics master's degree from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
+- Applied Mathematics and Physics master from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 
 ### BIO
 
