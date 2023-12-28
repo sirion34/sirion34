@@ -1,4 +1,4 @@
-# Hello, I'm Gleb Shuldyakov!
+# Hello, I'm G Sh!
 
 ## About me
 
