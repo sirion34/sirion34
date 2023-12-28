@@ -1,4 +1,4 @@
-# Hello, I'm G Sh!
+# Hello, I'm Gleb!
 
 ## About me
 
