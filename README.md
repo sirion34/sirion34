@@ -8,6 +8,11 @@
 - Applied Mathematics and Physics bachelor from [Moscow Institute of Physics and Technology](https://mipt.ru/english/),
 - Applied Mathematics and Physics master from [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 
+
+### My leetcode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sirion34)](https://leetcode.com/sirion34)
+
 <!--
 
 ### BIO
