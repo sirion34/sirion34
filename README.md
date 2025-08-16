@@ -2,6 +2,8 @@
 
 ## About me
 
+Lead Python Developer specializing in distributed financial systems
+
 ### Education
 
 - [Deep Learning School](https://en.dlschool.org/) attender,
